@@ -1,0 +1,35 @@
+
+.hmenu{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 10px;
+}
+a{
+    padding-left: 10px;
+    color: var(--cor-letras-p);
+    text-decoration: none;
+}
+button{
+    color: var(--branco);
+    width: 112px;
+    height: 44px;
+    background-color: var(--vermelho);
+    border-radius: 8px;
+    border: 0px;
+}
+.button1{
+    background-color: #FFFFFF;   
+}
+.pbutton{
+    font-size: 16px;
+    color: var(--cor-letras-p);
+}
+
+.pbutton2{
+    color: #FFFFFF;
+}
+
+
+

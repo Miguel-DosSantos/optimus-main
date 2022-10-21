@@ -1,0 +1,27 @@
+.sec2{
+    margin-top: 200px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.div2{
+    width: 280px;
+    height: 192px;
+}
+.numero{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    color: var(--vermelho);
+}
+.texto{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+}
+.textosecundario{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+}
